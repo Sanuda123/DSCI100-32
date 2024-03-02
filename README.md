@@ -1,2 +1,2 @@
-# DSCI100-32
+# Star Classification
 Data Science 100 group project repository
